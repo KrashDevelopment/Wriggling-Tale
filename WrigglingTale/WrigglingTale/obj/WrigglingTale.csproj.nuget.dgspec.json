@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\redeb\\RiderProjects\\WrigglingTale\\WrigglingTale\\WrigglingTale.csproj": {}
+    "C:\\Users\\redeb\\OneDrive\\Документы\\GitHub\\Wriggling-Tale\\WrigglingTale\\WrigglingTale\\WrigglingTale.csproj": {}
   },
   "projects": {
-    "C:\\Users\\redeb\\RiderProjects\\WrigglingTale\\WrigglingTale\\WrigglingTale.csproj": {
+    "C:\\Users\\redeb\\OneDrive\\Документы\\GitHub\\Wriggling-Tale\\WrigglingTale\\WrigglingTale\\WrigglingTale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\redeb\\RiderProjects\\WrigglingTale\\WrigglingTale\\WrigglingTale.csproj",
+        "projectUniqueName": "C:\\Users\\redeb\\OneDrive\\Документы\\GitHub\\Wriggling-Tale\\WrigglingTale\\WrigglingTale\\WrigglingTale.csproj",
         "projectName": "WrigglingTale",
-        "projectPath": "C:\\Users\\redeb\\RiderProjects\\WrigglingTale\\WrigglingTale\\WrigglingTale.csproj",
+        "projectPath": "C:\\Users\\redeb\\OneDrive\\Документы\\GitHub\\Wriggling-Tale\\WrigglingTale\\WrigglingTale\\WrigglingTale.csproj",
         "packagesPath": "C:\\Users\\redeb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\redeb\\RiderProjects\\WrigglingTale\\WrigglingTale\\obj\\",
+        "outputPath": "C:\\Users\\redeb\\OneDrive\\Документы\\GitHub\\Wriggling-Tale\\WrigglingTale\\WrigglingTale\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\redeb\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -9,7 +9,7 @@
 
     <ItemGroup>
       <Reference Include="SharpGDI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-        <HintPath>..\..\SharpGDI\csharp\SharpGDI\bin\Debug\net7.0\SharpGDI.dll</HintPath>
+        <HintPath>..\..\..\..\..\..\RiderProjects\SharpGDI\csharp\SharpGDI\bin\Release\net7.0\publish\SharpGDI.dll</HintPath>
       </Reference>
     </ItemGroup>
 
