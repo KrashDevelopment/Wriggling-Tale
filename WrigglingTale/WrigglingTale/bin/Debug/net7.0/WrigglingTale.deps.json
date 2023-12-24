@@ -7,19 +7,8 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "WrigglingTale/1.0.0": {
-        "dependencies": {
-          "SharpGDI": "1.0.0.0"
-        },
         "runtime": {
           "WrigglingTale.dll": {}
-        }
-      },
-      "SharpGDI/1.0.0.0": {
-        "runtime": {
-          "SharpGDI.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
         }
       }
     }
@@ -27,11 +16,6 @@
   "libraries": {
     "WrigglingTale/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "SharpGDI/1.0.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
