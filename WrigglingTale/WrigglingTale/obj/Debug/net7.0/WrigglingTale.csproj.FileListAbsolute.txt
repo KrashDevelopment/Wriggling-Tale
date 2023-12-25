@@ -30,3 +30,6 @@ D:\UnityProjects\Wriggling-Tale\WrigglingTale\WrigglingTale\obj\Debug\net7.0\ref
 D:\UnityProjects\Wriggling-Tale\WrigglingTale\WrigglingTale\obj\Debug\net7.0\WrigglingTale.pdb
 D:\UnityProjects\Wriggling-Tale\WrigglingTale\WrigglingTale\obj\Debug\net7.0\WrigglingTale.genruntimeconfig.cache
 D:\UnityProjects\Wriggling-Tale\WrigglingTale\WrigglingTale\obj\Debug\net7.0\ref\WrigglingTale.dll
+D:\UnityProjects\Wriggling-Tale\WrigglingTale\WrigglingTale\bin\Debug\net7.0\SharpGDI.pdb
+D:\UnityProjects\Wriggling-Tale\WrigglingTale\WrigglingTale\obj\Debug\net7.0\WrigglingTale.csproj.AssemblyReference.cache
+D:\UnityProjects\Wriggling-Tale\WrigglingTale\WrigglingTale\obj\Debug\net7.0\WrigglingTale.csproj.CopyComplete
